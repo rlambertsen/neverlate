@@ -1,0 +1,15 @@
+2017-09-02 19:22:14	admin	http://159.203.101.212/processwire/blog/	Updating schema version of 'blog_comments' from  to 6
+2017-09-02 19:42:10	admin	http://159.203.101.212/processwire/setup/template/removeFields	Deleted field "blog_images" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-02 19:42:10	admin	http://159.203.101.212/processwire/setup/template/removeFields	Deleted field "blog_body" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-02 19:42:39	admin	http://159.203.101.212/processwire/setup/field/send-templates-save?id=143	Deleted field "blog_headline" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-02 19:43:31	admin	http://159.203.101.212/processwire/setup/field/send-templates-save?id=144	Deleted field "blog_href" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-02 19:44:41	admin	http://159.203.101.212/processwire/blog/	Updating schema version of 'blog_comments' from  to 6
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_tab" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_title" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_keywords" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_description" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_image" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_robots" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_custom" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_canonical" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-09-03 20:44:46	admin	http://159.203.101.212/processwire/module/edit?name=MarkupSEO	Deleted field "seo_tab_END" data in 0 row(s) from 0 page(s). [page-by-page]
